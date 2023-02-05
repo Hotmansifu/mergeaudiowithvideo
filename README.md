@@ -7,14 +7,14 @@ A simple GUI application written in Python using tkinter that allows you to merg
 * Python 3
 
 ## Installation
-1.Clone or download the repository to your local machine
-2.Navigate to the repository folder in the terminal or command prompt
-3.Run the following command to install the required libraries:```pip install -r requirements```
+1. Clone or download the repository to your local machine
+2. Navigate to the repository folder in the terminal or command prompt
+3. Run the following command to install the required libraries:```pip install -r requirements```
 
 
 ## Usage of getmp3.py
-1.Enter a link of a youtube video which you want to download as MP3 file.
-2.Thats it!
+1. Enter a link of a youtube video which you want to download as MP3 file.
+2. Thats it!
 
 ## Usage of merge.py
 1. Select the video file
